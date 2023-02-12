@@ -3,7 +3,7 @@
 
 ![](https://hit.yhype.me/github/profile?user_id=50306938)
 
-- 🔭 I’m currently working on **Sbandati Community**
+- 🔭 I’m currently working on **Chilldudes**
 
 - 🌱 I’m currently learning **React Native, Flutter**
 
