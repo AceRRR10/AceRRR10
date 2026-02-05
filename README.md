@@ -20,7 +20,7 @@
 
 Da direttore tecnico a CTO di startup, ho guidato team, preso decisioni architetturali e portato progetti in produzione — dai gestionali in C# alle app certificate WCAG per la Pubblica Amministrazione, fino ai SaaS moderni con migliaia di utenti.
 
-Oggi lavoro come **consulente per aziende come Reply/BMW** e come **founder dei miei progetti** — da SaaS per la ristorazione ad app con migliaia di download.
+Oggi lavoro come **consulente per aziende come Key2** e come **founder dei miei progetti** — da SaaS per la ristorazione ad app con migliaia di download.
 
 > Capisco le esigenze del business e le traduco in architetture solide, codice pulito e team efficienti.
 
@@ -150,11 +150,11 @@ Il progetto che ha dato il via a tutto. Gestionale completo con fatturazione ele
 
 | Anno | Azienda | Ruolo | Progetto |
 |------|---------|-------|----------|
-| 2025 | **Reply / BMW** | Frontend Developer | Pannello API dinamico in Angular |
-| 2025 | **Reply / Qubica AMF** | Frontend Developer | Integrazione provider di pagamento (Vue) |
+| 2025 | **Key2 / Yokohama TWS** | Frontend Developer | Gestionale aziendale in Angular |
+| 2025 | **Key2 / Accessible AI** | Mobile Developer | App prenotazione viaggi per disabilità |
 | 2025 | **Key2 / Destination Italia** | Frontend Developer | Integrazione moduli AI su sito esistente |
-| 2024 | **Key2 / Yokohama TWS** | Frontend Developer | Gestionale aziendale in Angular |
-| 2024 | **Key2 / Accessible AI** | Mobile Developer | App prenotazione viaggi per disabilità |
+| 2024 | **Reply / Qubica AMF** | Frontend Developer | Integrazione provider di pagamento (Vue) |
+| 2024 | **Reply / BMW** | Frontend Developer | Pannello API dinamico in Angular |
 | 2023 | **DXC Technology** | Frontend Developer | Gestionale per Ministero dell'Interno |
 | 2020-23 | **Regione Lombardia** (PA) | Mobile Developer | App certificate WCAG (Ionic/Angular) |
 | 2020-23 | **Chilldudes** | CTO | Startup ottimizzazione workflow |
