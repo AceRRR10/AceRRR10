@@ -1,34 +1,245 @@
-<h1 align="center">Hi 👋, I'm Dario</h1>
-<h3 align="center">A passionate frontend developer from Italy</h3>
+<div align="center">
+
+# DA.
+
+### Full Stack Developer · CTO as a Service · Tech Lead
+
+**Dal codice all'architettura, dalla startup all'enterprise.**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dario-aversente/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/acerrr10)
+[![Portfolio](https://img.shields.io/badge/Portfolio-22C55E?style=for-the-badge&logo=vercel&logoColor=white)](https://darioaversente.it)
+
+</div>
+
+---
+
+## 👨‍💻 Chi sono
+
+**Ponte tra business e tech.** Oltre 9 anni di esperienza nel trasformare idee in prodotti digitali funzionanti.
+
+Da direttore tecnico a CTO di startup, ho guidato team, preso decisioni architetturali e portato progetti in produzione — dai gestionali in C# alle app certificate WCAG per la Pubblica Amministrazione, fino ai SaaS moderni con migliaia di utenti.
+
+Oggi lavoro come **consulente per aziende come Reply/BMW** e come **founder dei miei progetti** — da SaaS per la ristorazione ad app con migliaia di download.
+
+> Capisco le esigenze del business e le traduco in architetture solide, codice pulito e team efficienti.
+
+### 🎯 Highlights
+
+```typescript
+const dario = {
+  experience: "9+ anni",
+  projects: "15+ completati",
+  leadership: "6+ ruoli di team lead / CTO",
+  downloads: "1000+ su EqForecast app",
+  certifications: ["ISO 27001", "Sviluppo Sicuro", "WCAG Accessibility"]
+};
+```
+
+---
+
+## 🚀 Cosa faccio
+
+<table>
+<tr>
+<td width="50%">
+
+### 💻 Sviluppo Full Stack
+Web app complete, gestionali e SaaS. Dall'architettura al deploy.
+
+**Stack:** React · Next.js · Angular · Node.js
+
+</td>
+<td width="50%">
+
+### 📱 Mobile Development
+App iOS e Android performanti e accessibili. Esperienza con app certificate WCAG.
+
+**Stack:** React Native · Ionic
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 👔 CTO as a Service
+Leadership tecnica per startup e aziende. Gestione team, decisioni architetturali, ponte tra business e tech.
+
+**Focus:** Team Lead · Architettura · Strategy
+
+</td>
+<td width="50%">
+
+### 🤖 Integrazione AI
+Moduli di intelligenza artificiale integrati in prodotti esistenti.
+
+**Stack:** AI/ML · NLP · Automazione
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🛠️ DevOps & Infrastruttura
+Pipeline CI/CD, deploy automatizzati, gestione server e monitoraggio.
+
+**Stack:** Docker · CI/CD · Linux · Nginx
+
+</td>
+<td width="50%">
+
+### 🔒 Sicurezza & Compliance
+Sviluppo sicuro e conforme agli standard. Formazione ISO 27001 e OWASP.
+
+**Standards:** ISO 27001 · OWASP · WCAG
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🎨 Featured Projects
+
+### 🍽️ EatAssistant — SaaS per la Ristorazione
+**Founder / CTO** · 2024-2025
+
+SaaS completo con 2 frontend (pannello gestionale Next.js + app mobile React Native), backend Node.js, AI integration e DevOps completo.
+
+- ✅ Architettura multi-frontend
+- ✅ Pipeline CI/CD automatizzata
+- ✅ Integrazione AI per menu intelligenti
+- 🛠️ **Stack:** React Native · Next.js · Angular · Node.js · MongoDB · AI
+- 🔗 [eatassistant.it](https://eatassistant.it)
+
+### 🌍 EqForecast — App Previsione Terremoti
+**Developer** · 2025
+
+App per iOS e Android con oltre **1000 download**. Analisi dati sismici in tempo reale con notifiche push.
+
+- 📱 +1000 download sugli store
+- 🌐 Dati sismici real-time
+- 🔔 Push notifications
+- 🛠️ **Stack:** React Native
+- 🔗 [App Store](https://apps.apple.com/it/app/eqforecast-alert-pre-terremoto/id1561772135) · [Google Play](https://play.google.com/store/apps/details?id=com.eqforecast.app&hl=it)
+
+### ⭐ Arik Xander — Backend per Calcoli Astrologici
+**Tech Lead** · 2025
+
+Backend complesso per calcoli astrologici basati su dataset NASA. Gestione team e API ad alte prestazioni.
+
+- 🪐 Dataset NASA
+- 🧮 Calcoli astrologici complessi
+- 👥 Gestione team
+- 🛠️ **Stack:** Node.js · Python
+- 🔗 [arikxander.com](https://www.arikxander.com)
+
+### 🍕 Quickrest — Gestionale per Bar e Ristoranti
+**Direttore Tecnico** · 2016-2020
+
+Il progetto che ha dato il via a tutto. Gestionale completo con fatturazione elettronica, scontrini fiscali e gestione magazzino.
+
+- 📄 Fatturazione elettronica
+- 🧾 Scontrini fiscali
+- 📦 Gestione magazzino completa
+- 🛠️ **Stack:** C#
+
+---
+
+## 🏢 Esperienza Recente
+
+| Anno | Azienda | Ruolo | Progetto |
+|------|---------|-------|----------|
+| 2025 | **Reply / BMW** | Frontend Developer | Pannello API dinamico in Angular |
+| 2025 | **Reply / Qubica AMF** | Frontend Developer | Integrazione provider di pagamento (Vue) |
+| 2025 | **Key2 / Destination Italia** | Frontend Developer | Integrazione moduli AI su sito esistente |
+| 2024 | **Key2 / Yokohama TWS** | Frontend Developer | Gestionale aziendale in Angular |
+| 2024 | **Key2 / Accessible AI** | Mobile Developer | App prenotazione viaggi per disabilità |
+| 2023 | **DXC Technology** | Frontend Developer | Gestionale per Ministero dell'Interno |
+| 2020-23 | **Regione Lombardia** (PA) | Mobile Developer | App certificate WCAG (Ionic/Angular) |
+| 2020-23 | **Chilldudes** | CTO | Startup ottimizzazione workflow |
+
+---
+
+## 🛠️ Tech Stack
+
+```typescript
+const techStack = {
+  frontend: ["React", "Angular", "Vue", "Next.js"],
+  mobile: ["React Native", "Ionic"],
+  backend: ["Node.js", "Python", "C#", "PHP"],
+  database: ["MongoDB", "PostgreSQL", "MySQL"],
+  devops: ["CI/CD", "Docker", "Linux", "Nginx"],
+  altro: ["AI/ML", "ISO 27001", "WCAG", "Git"]
+};
+```
+
+<div align="center">
+
+### Languages & Frameworks
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+
+### Databases & DevOps
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+</div>
+
+
+---
+
+## 🎯 Vibe to Production
+
+Hai costruito la tua app con AI ma non sai come portarla in produzione?
+
+**Offro servizi di audit, refactor e deploy per progetti vibe-coded.**
+
+🔗 [Scopri Vibe to Production →](https://darioaversente.it/vibe-to-production)
+
+---
+
+## 📫 Contatti
+
+<div align="center">
+
+**Disponibile per nuovi progetti**
+
+📧 [info@darioaversente.it](mailto:info@darioaversente.it)
+
+💼 [LinkedIn](https://www.linkedin.com/in/dario-aversente/) · 🐙 [GitHub](https://github.com/acerrr10) · 🌐 [Portfolio](https://darioaversente.it)
+
+</div>
+
+---
+
+
+### 💡 Fun Facts
+
+```typescript
+const funFacts = {
+  loves: ["Clean Code", "Good Architecture", "Problem Solving"],
+  hates: ["Technical Debt", "Bad Documentation", "Spaghetti Code"],
+  motto: "From vibe to production, with style."
+};
+```
+
+<div align="center">
+
+**"Costruisco prodotti digitali che funzionano."**
 
 ![](https://hit.yhype.me/github/profile?user_id=50306938)
 
-- 🔭 I’m currently working on **Chilldudes**
-
-- 🌱 I’m currently learning **React Native, Flutter**
-
-- 👯 I’m looking to collaborate with **anyone who has a great idea**
-
-- 💬 Ask me about **Typescript, Javascript, Ionic, Angular**
-
-- 📫 How to reach me **darioacerr@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/dario-aversente-2a97a0151/](https://www.linkedin.com/in/dario-aversente-2a97a0151/)
-
-- ⚡ Fun fact **I love Dogs, Cats and Humans (in order)**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/acerrr10" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="acerrr10" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/dario-aversente-2a97a0151" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dario-aversente-2a97a0151" height="30" width="40" /></a>
-<a href="https://medium.com/@darioaversente" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@darioaversente" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://cordova.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_cordova/apache_cordova-icon.svg" alt="apachecordova" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://ionicframework.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://github.com/puppeteer/puppeteer" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=acerrr10&show_icons=true&locale=en&layout=compact" alt="acerrr10" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=acerrr10&show_icons=true&locale=en" alt="acerrr10" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=acerrr10&" alt="acerrr10" /></p>
+</div>
